@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <iostream>
-#include <qDebug>
+#include <QDebug>
 using namespace std;
 
 MainWindow::MainWindow(QWidget *parent) :
