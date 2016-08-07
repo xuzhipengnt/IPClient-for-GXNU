@@ -62,7 +62,7 @@ def get_local_ip(ifname):
 
 if __name__=="__main__":
     mac="40:61:86:87:9F:F1"
-    ip="172.16.54.205"
+    ip="172.16.54.205"  ###This ip address is local computer's ip not router's ip!!!
     isp=0x01
     ###isp  0x01(China Unicom)  0x02(China Telecom)  0x03(China Mobile) ###
     send_handshake(mac,ip,isp)
