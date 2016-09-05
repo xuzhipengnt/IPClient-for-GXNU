@@ -18,3 +18,8 @@
 这个项目曾经也作为课程论文提交，现在公开。
 
 并加入运营商控制部分的Python实现(isp.py)，可以打开拨号的出口。校园网拨号的实现(ipclient.py)
+
+-2016年9月5日-
+本源文件管理比较乱，请移步
+
+https://github.com/xuzhipengnt/ipclient_gxnu

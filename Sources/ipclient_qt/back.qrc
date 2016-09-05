@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/image">
-        <file alias="backt">gxnu-t.png</file>
-    </qresource>
-</RCC>
